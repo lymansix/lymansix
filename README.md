@@ -6,7 +6,7 @@
 
 <!-- 访客数统计徽标 -->
 <div align=center>
-  <img src="(https://visitor-badge.glitch.me/badge?page_id=lymansix&left_color=green&right_color=red)">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lymansix&left_color=green&right_color=red">
 </div>
 
 
