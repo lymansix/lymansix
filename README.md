@@ -1,12 +1,12 @@
 <!-- 动态打字效果 https://readme-typing-svg.herokuapp.com/demo/ -->
 <div align=center>
-  <img src="[https://img-blog.csdnimg.cn/20200725104000982.png](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3850F7&width=435&lines=Great+minds+have+purpose;+others+have+wishes)](https://git.io/typing-svg)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3850F7&width=435&lines=Great+minds+have+purpose;+others+have+wishes">
 </div>
 
 
 <!-- 访客数统计徽标 -->
 <div align=center>
-  <img src="[https://img-blog.csdnimg.cn/20200725104000982.png](https://visitor-badge.glitch.me/badge?page_id=lymansix&left_color=green&right_color=red)">
+  <img src="(https://visitor-badge.glitch.me/badge?page_id=lymansix&left_color=green&right_color=red)">
 </div>
 
 
