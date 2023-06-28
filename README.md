@@ -34,8 +34,8 @@ const lymansix = {
 ## Github Stats
   
 <div align="left">
-  <img height="137px" src="https://github-readme-stats-nine-vert-48.vercel.app/api?username=lymansix&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
-  <img height="137px" width="380px" src="https://github-readme-stats-nine-vert-48.vercel.app/api/top-langs/?username=lymansix&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
+  <img height="137px" src="https://github-readme-stats-5tbmzivtq-lymansix.vercel.app/api?username=lymansix&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=onedark" />
+  <img height="137px" width="380px" src="https://github-readme-stats-5tbmzivtq-lymansix.vercel.app/api/top-langs/?username=lymansix&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=onedark" />
 </div>
 
 
