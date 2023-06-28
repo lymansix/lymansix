@@ -8,7 +8,7 @@
 <p>
   <em>Software Engineer at <a href="http://www.lnca.org.cn/">LNCA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
   <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lymansix&left_color=green&right_color=red">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lymansix.lymansix&left_color=green&right_color=red">
 </p>
 
 ```javascript
