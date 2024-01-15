@@ -23,8 +23,8 @@ const lymansix = {
         backEnd: {
             java: ["Spring", "SpringMVC", "SpingBoot", "SpringCloud", "Junit", "Mybatis", "Mybatis Plus"]
         },
-        devOps: ["Jenkins", "Docker🐳", "GitLab", "Nginx"],
-        databases: ["redis", "mongo", "MySql", "oracle"],
+        devOps: ["Jenkins", "Docker🐳", "GitLab", "Nginx", "Jira"],
+        databases: ["redis", "mongo", "MySql", "kingbase", "PostgreSql"],
         misc: ["centos", "ubuntu", "git", "svn", "archlinux", "loongnix"]
     }
 };
